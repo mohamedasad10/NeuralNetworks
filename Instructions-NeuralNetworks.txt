@@ -1,0 +1,24 @@
+Dear Students,
+
+This is a mini-project assignment on Neural Networks. I've taken a LOT of time to create this notebook which will give you practical exposure to many things taught in class. Use the opportunity to learn. Note that this assignment is worth a huge chunk of your CSC312 ML mark; I would advise putting a lot of time and effort into it.
+
+The notebook comes with one file that you'll need to download and store in the same folder as the notebook.
+
+This notebook also doesn't have any instant feedback cells. However, I've provided you with sample input and expected outputs for you to manually check your answers for correctness.
+
+To obtain the practical Jupyter notebook file, you will need to copy/paste the following link into your browser, taking care to replace [YOUR-STUDENT-NUMBER-HERE] with... umm.... your student number. Obviously.
+
+https://ikamva.uwc.ac.za/access/content/group/ff32bea8-c00d-492f-a31c-1f73fde1c72a/Machine%20Learning/Assignments/Assignment3/[YOUR-STUDENT-NUMBER-HERE]/CSC312%20-%20Assignment%203%20-%20Neural%20Networks.ipynb
+
+VERY IMPORTANT: As before, using the link above will help keep a register of students who have started the assignment. You must be on the register to get marked.
+
+I will be using an auto-marking script coupled with different data to mark most of the work in the notebook so I would advise against hard-coding values or making rigid assumptions. When in doubt, ask. Also note that your code will therefore either be 100% correct or 100% wrong. It has to be perfect in functioning and format to obtain marks with the auto-marker.
+
+VERY IMPORTANT: Please see the top of the notebook for detailed submission instructions and please follow those instructions to avoid unnecessary loss of marks.
+
+Please note that absolutely no late submissions will be accepted. Aim to submit 24-48 hours BEFORE the deadline so that you won't run into any network or other issues. No excuses will be accepted.
+
+If you're late and the submission on iKamva closes, please don't email me your work, don't call me, don't email me with excuses, don't attempt to make any kind of contact with me about your late submission; with a heavy heart, I won't mark it even if you do. Surrender to the fact that you submitted late. Just to repeat: if you're late with the submission and you like taking risks by trying to submit 10 minutes before time, do it at your own risk. Don't email your work to me. Don't write me an email or letter telling me that I'm responsible for your risky behaviour or that I'm taking food out of your children's mouths... That's on you.
+
+Good luck,
+Prof Ghaziasgar
