@@ -1,5 +1,3 @@
-# NeuralNetworks(MachineLearning-Prac3)
-
 # Neural Networks Mini-Project - CSC312 Assignment 3
 
 ## Introduction
